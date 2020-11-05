@@ -1,0 +1,18 @@
+.container {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+	margin: auto;
+}
+
+.container h1, p {
+    color: white;
+    font-family: Poppins;
+    
+}
+
+.text-center{
+    text-align: center;
+}
+
